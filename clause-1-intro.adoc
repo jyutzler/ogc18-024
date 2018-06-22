@@ -4,7 +4,7 @@
 
 GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.
 
-Over the course of 2017 and 2018, the GeoPackage Standards Working Group (SWG) made a number of changes to the GeoPackage Encoding Standard Version 1.2 (OGC 12-128r14). These changes have been aggregated into version 1.2.1 of the GeoPackage Encoding Standard (12-128r14). This document describes those changes. 
+Over the course of 2017 and 2018, the GeoPackage Standards Working Group (SWG) made a number of changes to the GeoPackage Encoding Standard Version 1.2 (OGC 12-128r14). These changes have been aggregated into version 1.2.1 of the GeoPackage Encoding Standard (12-128r15). This document describes those changes. 
 
 GeoPackage 1.2.1 is a corrigendum revision to version 1.2.0. An OGC Corrigendum release is focused on correcting errors, bugs, and/or deficiencies. While a corrigendum release can break backwards compatibility (such as correcting a schema error), the SWG has worked hard to ensure that this corrigendum does not break backwards compatibility. In this case none of the changes alter conformance requirements. 
 
